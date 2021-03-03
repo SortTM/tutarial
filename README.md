@@ -2,6 +2,16 @@
 
 A new Flutter project.
 
+this is the test app for using zarinpal in flutter 
+
+این پروژه برای کمک به اوناییکه مشکل اتصال به زرین پال رو دارن
+
+من اومد با کمک 
+
+php
+
+کارمو راه انداختم امیدوارم به شما هم کمک کنه 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
